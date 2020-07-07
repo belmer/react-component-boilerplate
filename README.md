@@ -1,5 +1,5 @@
 # react-component-boilerplate
-A boilerplate for creating react component module
+A boilerplate for creating react component module. It's ready to go!
 
 # Setup/Configs
 
