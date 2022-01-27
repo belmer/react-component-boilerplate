@@ -46,6 +46,6 @@
   "dependencies": {
     "material-ui": "^0.20.2",
     "react-three-fiber": "^4.2.12",
-    "three": "^0.118.3"
+    "three": "^0.137.0"
   }
 }
